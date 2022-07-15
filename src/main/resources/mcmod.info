@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lets",
+  "name": "lets",
+  "description": "minecraft tp without op access.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LewisJang"],
+  "credits": "nah",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
